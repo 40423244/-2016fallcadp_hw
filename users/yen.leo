@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
-<?xml-stylesheet ekr_test ?>
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -15,7 +14,7 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1"><vh>@path ./../</vh>
+<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
@@ -118,7 +117,7 @@
 <v t="leo.20161114191455.66"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161114191455.67" a="E"><vh>20161111</vh>
+<v t="leo.20161114191455.67"><vh>20161111</vh>
 <v t="leo.20161114191455.68" a="E"><vh>上課日期</vh>
 <v t="leo.20161114191455.69"><vh>20161111</vh></v>
 </v>
@@ -127,6 +126,17 @@
 </v>
 <v t="leo.20161114191455.72" a="E"><vh>心得</vh>
 <v t="leo.20161114191455.73"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161118114525.1" a="E"><vh>20161118</vh>
+<v t="leo.20161118114525.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161118114525.3"><vh>20161118</vh></v>
+</v>
+<v t="leo.20161118114525.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161118114525.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161118114525.6" a="E"><vh>心得</vh>
+<v t="leo.20161118114525.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -146,7 +156,7 @@
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
-<v t="amd.20151215170031.1"><vh>@path ./../content</vh>
+<v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="leo.20161114191912.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="leo.20161114191912.2" a="E"><vh>201609</vh>
 <v t="leo.20161114191912.3"><vh>@edit 20160916.md</vh></v>
@@ -158,6 +168,7 @@
 <v t="leo.20161114191912.10"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161114191912.11"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161114191912.12"><vh>@edit 20161111.md</vh></v>
+<v t="leo.20161118113642.1"><vh>@edit 20161118.md</vh></v>
 </v>
 </v>
 </v>
@@ -189,10 +200,6 @@ print("hello")
 &lt;/pre&gt;</t>
 <t tx="amd.20160106094754.1"></t>
 <t tx="amd.20160106094829.1"></t>
-<t tx="amd.20160106094844.1">@language md
-Title: About
-
-##2016Fall 修課成員網誌</t>
 <t tx="amd.20160106095324.1"></t>
 <t tx="amd.20160921213353.1"></t>
 <t tx="leo.20151212173315.1"></t>
@@ -826,5 +833,50 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 </t>
 <t tx="leo.20161114191912.1"></t>
 <t tx="leo.20161114191912.2"></t>
+<t tx="leo.20161118114525.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161118114525.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161118114525.3">## 2016/11/18 第十週
+
+</t>
+<t tx="leo.20161118114525.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161118114525.5">##上課內容 
+
+上課中
+
+
+
+</t>
+<t tx="leo.20161118114525.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161118114525.7">##心得
+
+&gt;_&lt;
+
+</t>
 </tnodes>
 </leo_file>
