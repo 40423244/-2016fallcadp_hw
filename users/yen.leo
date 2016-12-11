@@ -161,6 +161,17 @@
 <v t="leo.20161204223939.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20161211134801.1"><vh>20161209</vh>
+<v t="leo.20161211134801.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161211134801.3"><vh>20161209</vh></v>
+</v>
+<v t="leo.20161211134801.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161211134801.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161211134801.6" a="E"><vh>心得</vh>
+<v t="leo.20161211134801.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -193,6 +204,7 @@
 <v t="leo.20161118113642.1"><vh>@edit 20161118.md</vh></v>
 <v t="leo.20161126215421.1"><vh>@edit 20161125.md</vh></v>
 <v t="leo.20161204223426.1"><vh>@edit 20161202.md</vh></v>
+<v t="leo.20161211134912.1"><vh>@edit 20161209.md</vh></v>
 </v>
 </v>
 </v>
@@ -991,6 +1003,50 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 畫圖的部分滿簡單的，不過不會轉成html
 哭哭
+</t>
+<t tx="leo.20161211134801.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161211134801.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211134801.3">## 2016/12/09 第十三週
+
+</t>
+<t tx="leo.20161211134801.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211134801.5">##上課內容 
+
+使用SolveSpace
+
+
+
+</t>
+<t tx="leo.20161211134801.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161211134801.7">##心得
+
+原來不能轉檔是版本的問題，要解決太yee了吧。
 </t>
 </tnodes>
 </leo_file>
