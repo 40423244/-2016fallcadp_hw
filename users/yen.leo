@@ -172,15 +172,15 @@
 <v t="leo.20161211140128.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161216112117.1"><vh>20161216</vh>
-<v t="leo.20161216112117.2" a="E"><vh>上課日期</vh>
-<v t="leo.20161216112117.3"><vh>20161209</vh></v>
+<v t="leo.20161218115049.1"><vh>20161216</vh>
+<v t="leo.20161218115049.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161218115049.3"><vh>20161216</vh></v>
 </v>
-<v t="leo.20161216112117.4" a="E"><vh>上課內容</vh>
-<v t="leo.20161216112117.5"><vh>上課內容</vh></v>
+<v t="leo.20161218115049.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161218115049.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161216112117.6" a="E"><vh>心得</vh>
-<v t="leo.20161216112117.7"><vh>心得</vh></v>
+<v t="leo.20161218115049.6" a="E"><vh>心得</vh>
+<v t="leo.20161218115049.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -216,7 +216,7 @@
 <v t="leo.20161126215421.1"><vh>@edit 20161125.md</vh></v>
 <v t="leo.20161204223426.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20161211140246.1"><vh>@edit 20161209.md</vh></v>
-<v t="leo.20161216112205.1"><vh>@edit 20161216.md</vh></v>
+<v t="leo.20161218115142.1"><vh>@edit 20161216.md</vh></v>
 </v>
 </v>
 </v>
@@ -1101,16 +1101,50 @@ Diff...
 
 原來不能轉檔是版本的問題，要解決太yee了吧。
 </t>
-<t tx="leo.20161216112117.1">@others
+<t tx="leo.20161218115049.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 </t>
-<t tx="leo.20161216112117.2">@others
+<t tx="leo.20161218115049.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
 </t>
-<t tx="leo.20161216112117.3"></t>
-<t tx="leo.20161216112117.4">@others
+<t tx="leo.20161218115049.3">## 2016/12/16 第十四週
+
 </t>
-<t tx="leo.20161216112117.5"></t>
-<t tx="leo.20161216112117.6">@others
+<t tx="leo.20161218115049.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
 </t>
-<t tx="leo.20161216112117.7"></t>
+<t tx="leo.20161218115049.5">##上課內容 
+
+使用SolveSpace
+
+
+
+</t>
+<t tx="leo.20161218115049.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161218115049.7">##心得
+
+github最近怪怪der
+</t>
 </tnodes>
 </leo_file>
