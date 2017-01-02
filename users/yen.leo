@@ -183,6 +183,28 @@
 <v t="leo.20161218115049.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170102143911.1"><vh>20161223</vh>
+<v t="leo.20170102143911.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170102143911.3"><vh>201612123</vh></v>
+</v>
+<v t="leo.20170102143911.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170102143911.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170102143911.6" a="E"><vh>心得</vh>
+<v t="leo.20170102143911.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170102143916.1"><vh>20161230</vh>
+<v t="leo.20170102143916.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170102143916.3"><vh>20161230</vh></v>
+</v>
+<v t="leo.20170102143916.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170102143916.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170102143916.6" a="E"><vh>心得</vh>
+<v t="leo.20170102143916.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -217,18 +239,14 @@
 <v t="leo.20161204223426.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20161211140246.1"><vh>@edit 20161209.md</vh></v>
 <v t="leo.20161218115142.1"><vh>@edit 20161216.md</vh></v>
+<v t="leo.20170102144829.1"><vh>@edit 20161223.md</vh></v>
+<v t="leo.20170102144831.1"><vh>@edit 20161230.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
-</v>
-</v>
-<v t="leo.20161211135729.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20161211135729.3"><vh>Recovered node "心得" from @clean index.html</vh>
-<v t="leo.20161211135729.4"><vh>old:心得</vh></v>
-<v t="leo.20161211135729.5"><vh>new:心得</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1033,29 +1051,6 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 畫圖的部分滿簡單的，不過不會轉成html
 哭哭
 </t>
-<t tx="leo.20161211135729.2"></t>
-<t tx="leo.20161211135729.3">(uncached) leo.20161211134801.7
-Diff...
-  ##心得
-  
-- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-  原來不能轉檔是版本的問題，要解決太yee了吧。
-- =======
-- 原來不能轉檔是版本的問題，要處理太yee了吧。
-- &gt;&gt;&gt;&gt;&gt;&gt;&gt; 3c64c924d0ec54858a1a0c88185f7797b794c9f6
-</t>
-<t tx="leo.20161211135729.4">##心得
-
-原來不能轉檔是版本的問題，要解決太yee了吧。
-</t>
-<t tx="leo.20161211135729.5">##心得
-
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-原來不能轉檔是版本的問題，要解決太yee了吧。
-=======
-原來不能轉檔是版本的問題，要處理太yee了吧。
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 3c64c924d0ec54858a1a0c88185f7797b794c9f6
-</t>
 <t tx="leo.20161211140128.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1145,6 +1140,96 @@ Diff...
 <t tx="leo.20161218115049.7">##心得
 
 github最近怪怪der
+</t>
+<t tx="leo.20170102143911.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170102143911.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170102143911.3">## 2016/12/23 第十五週
+
+</t>
+<t tx="leo.20170102143911.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170102143911.5">##上課內容 
+
+看影片自學
+
+
+
+</t>
+<t tx="leo.20170102143911.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170102143911.7">##心得
+
+連兩周看影片自學，到底來幹嘛
+</t>
+<t tx="leo.20170102143916.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170102143916.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170102143916.3">## 2016/12/30 第十六週
+
+</t>
+<t tx="leo.20170102143916.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170102143916.5">##上課內容 
+
+使用SolveSpace
+
+
+
+</t>
+<t tx="leo.20170102143916.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170102143916.7">##心得
+
+成績終於跟煙火一起放掉了，而我是最燦爛的那個！
 </t>
 </tnodes>
 </leo_file>
