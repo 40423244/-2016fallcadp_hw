@@ -26,7 +26,7 @@
 <v t="leo.20161114191455.6" a="E"><vh>body</vh>
 <v t="leo.20161114191455.7" a="E"><vh>reveal div</vh>
 <v t="leo.20161114191455.8" a="E"><vh>slides div</vh>
-<v t="leo.20161114191455.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20161114191455.9"><vh>封面投影片</vh>
 <v t="leo.20161114191455.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20161114191455.11"><vh>20160916</vh>
@@ -47,7 +47,10 @@
 <v t="leo.20161114191455.21" a="E"><vh>上課內容</vh>
 <v t="leo.20161114191455.22"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161114191455.23" a="E"><vh>心得</vh>
+<v t="leo.20170109011731.1" a="E"><vh>影片</vh>
+<v t="leo.20170109011731.2"><vh>push方法</vh></v>
+</v>
+<v t="leo.20161114191455.23"><vh>心得</vh>
 <v t="leo.20161114191455.24"><vh>心得</vh></v>
 </v>
 </v>
@@ -165,8 +168,14 @@
 <v t="leo.20161211140128.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161211140128.3"><vh>20161209</vh></v>
 </v>
-<v t="leo.20161211140128.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161211140128.4"><vh>上課內容</vh>
 <v t="leo.20161211140128.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170109012240.1" a="E"><vh>影片1</vh>
+<v t="leo.20170109012240.2"><vh>影片1</vh></v>
+</v>
+<v t="leo.20170109012243.1" a="E"><vh>影片2</vh>
+<v t="leo.20170109012243.2"><vh>影片2</vh></v>
 </v>
 <v t="leo.20161211140128.6" a="E"><vh>心得</vh>
 <v t="leo.20161211140128.7"><vh>心得</vh></v>
@@ -178,6 +187,9 @@
 </v>
 <v t="leo.20161218115049.4" a="E"><vh>上課內容</vh>
 <v t="leo.20161218115049.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170109012057.1" a="E"><vh>影片</vh>
+<v t="leo.20170109012057.2"><vh>影片</vh></v>
 </v>
 <v t="leo.20161218115049.6" a="E"><vh>心得</vh>
 <v t="leo.20161218115049.7"><vh>心得</vh></v>
@@ -200,6 +212,9 @@
 </v>
 <v t="leo.20170102143916.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170102143916.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170109011932.1" a="E"><vh>影片</vh>
+<v t="leo.20170109011932.2"><vh>影片</vh></v>
 </v>
 <v t="leo.20170102143916.6" a="E"><vh>心得</vh>
 <v t="leo.20170102143916.7"><vh>心得</vh></v>
@@ -940,7 +955,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 </t>
 <t tx="leo.20161118114525.5">##上課內容 
 
-上課中
+繪製四連桿機構
 
 
 
@@ -956,9 +971,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 </t>
 <t tx="leo.20161118114525.7">##心得
 
-&gt;_&lt;
-
-</t>
+這種2D的東西實在是很無聊呢</t>
 <t tx="leo.20161126215527.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1216,7 +1229,6 @@ github最近怪怪der
 使用SolveSpace
 
 
-
 </t>
 <t tx="leo.20170102143916.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1230,6 +1242,74 @@ github最近怪怪der
 <t tx="leo.20170102143916.7">##心得
 
 成績終於跟煙火一起放掉了，而我是最燦爛的那個！
+</t>
+<t tx="leo.20170109011731.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109011731.2">##push方法
+
+&lt;iframe src="https://player.vimeo.com/video/198570749" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170109011932.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109011932.2">##組裝連趕機構
+
+&lt;iframe src="https://player.vimeo.com/video/198572743" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170109012057.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109012057.2">##轉html
+
+&lt;iframe src="https://player.vimeo.com/video/198573236" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170109012240.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109012240.2">##繪製零件
+
+&lt;iframe src="https://player.vimeo.com/video/198571077" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170109012243.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109012243.2">##零件組裝
+
+&lt;iframe src="https://player.vimeo.com/video/198571250" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 </tnodes>
 </leo_file>
