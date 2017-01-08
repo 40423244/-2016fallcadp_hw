@@ -220,6 +220,17 @@
 <v t="leo.20170102143916.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170109013839.1" a="E"><vh>20170106</vh>
+<v t="leo.20170109013839.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170109013839.3"><vh>20170106</vh></v>
+</v>
+<v t="leo.20170109013839.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170109013839.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170109013839.6" a="E"><vh>心得</vh>
+<v t="leo.20170109013839.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -256,6 +267,7 @@
 <v t="leo.20161218115142.1"><vh>@edit 20161216.md</vh></v>
 <v t="leo.20170102144829.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20170102144831.1"><vh>@edit 20161230.md</vh></v>
+<v t="leo.20170109013752.1"><vh>@edit 20170106.md</vh></v>
 </v>
 </v>
 </v>
@@ -1310,6 +1322,51 @@ github最近怪怪der
 
 &lt;iframe src="https://player.vimeo.com/video/198571250" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
+</t>
+<t tx="leo.20170109013839.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170109013839.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109013839.3">## 2017/01/06 第十七週
+
+</t>
+<t tx="leo.20170109013839.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109013839.5">##上課內容 
+
+點名+看大家倉儲
+
+
+
+</t>
+<t tx="leo.20170109013839.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109013839.7">##心得
+
+看完大家的倉儲，我真心覺得這學期認真過頭了。
 </t>
 </tnodes>
 </leo_file>
