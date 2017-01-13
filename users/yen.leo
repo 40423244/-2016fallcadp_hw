@@ -231,6 +231,17 @@
 <v t="leo.20170109013839.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170113100932.1"><vh>20170113</vh>
+<v t="leo.20170113100932.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170113100932.3"><vh>20170113</vh></v>
+</v>
+<v t="leo.20170113100932.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170113100932.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170113100932.6" a="E"><vh>心得</vh>
+<v t="leo.20170113100932.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -268,6 +279,7 @@
 <v t="leo.20170102144829.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20170102144831.1"><vh>@edit 20161230.md</vh></v>
 <v t="leo.20170109013752.1"><vh>@edit 20170106.md</vh></v>
+<v t="leo.20170113101016.1"><vh>@edit 20170113.md</vh></v>
 </v>
 </v>
 </v>
@@ -1368,5 +1380,49 @@ github最近怪怪der
 
 看完大家的倉儲，我真心覺得這學期認真過頭了。
 </t>
+<t tx="leo.20170113100932.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170113100932.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113100932.3">## 2017/01/13 第十八週
+
+</t>
+<t tx="leo.20170113100932.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113100932.5">##上課內容 
+
+期末總結
+
+
+
+</t>
+<t tx="leo.20170113100932.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113100932.7">##心得
+
+希望這學期收到成績單不會哭出來。</t>
 </tnodes>
 </leo_file>
