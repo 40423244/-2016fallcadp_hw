@@ -160,6 +160,12 @@
 <v t="leo.20161204223939.4" a="E"><vh>上課內容</vh>
 <v t="leo.20161204223939.5"><vh>上課內容</vh></v>
 </v>
+<v t="leo.20170115030126.1" a="E"><vh>影片1</vh>
+<v t="leo.20170115030126.2"><vh>影片1</vh></v>
+</v>
+<v t="leo.20170115030134.1" a="E"><vh>影片2</vh>
+<v t="leo.20170115030134.2"><vh>影片2</vh></v>
+</v>
 <v t="leo.20161204223939.6" a="E"><vh>心得</vh>
 <v t="leo.20161204223939.7"><vh>心得</vh></v>
 </v>
@@ -201,6 +207,9 @@
 </v>
 <v t="leo.20170102143911.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170102143911.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115025929.1" a="E"><vh>影片</vh>
+<v t="leo.20170115025929.2"><vh>影片</vh></v>
 </v>
 <v t="leo.20170102143911.6" a="E"><vh>心得</vh>
 <v t="leo.20170102143911.7"><vh>心得</vh></v>
@@ -1424,5 +1433,47 @@ github最近怪怪der
 <t tx="leo.20170113100932.7">##心得
 
 希望這學期收到成績單不會哭出來。</t>
+<t tx="leo.20170115025929.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115025929.2">##利用Onshape組裝
+
+&lt;iframe src="https://player.vimeo.com/video/199471201" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170115030126.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115030126.2">##利用Onshape繪製方塊
+
+&lt;iframe src="https://player.vimeo.com/video/199471191" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170115030134.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115030134.2">##利用Onshape繪製棒棒
+
+&lt;iframe src="https://player.vimeo.com/video/199471197" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
